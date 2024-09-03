@@ -1,4 +1,3 @@
-### Hi there 👋
 Hello, 
 you can check my resume here: https://andreyzarev.github.io/Resume/resume.html
 <!--
